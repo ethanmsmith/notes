@@ -1,5 +1,5 @@
 # Cookie Dough
-The base recipe for this dough is taken from Tara O'brady's Chocolate Chip cookie recipe  
+The base recipe for this dough is taken from Tara O'brady's Chocolate Chip cookie [recipe](taraobrady.com/recipes-in-full/2019/5/1/tara-obradys-basic-great-chocolate-chip-cookies)  
 ---
 ## Ingredients
 - 1 cup | 225 g unsalted butter, chopped  
