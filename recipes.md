@@ -4,5 +4,5 @@ Cookie Recipes
 3. [[honey-cinnamon-cookies]]
 
 Bread Recipes
-1. [[zucchin-bread]]
+1. [[zucchini-bread]]
 2. [[banana-bread]]
