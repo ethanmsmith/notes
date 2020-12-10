@@ -1,3 +1,3 @@
 # Zucchini Bread
 
-Link Zucc to recipes
+Link Zucc to [[recipes]]
