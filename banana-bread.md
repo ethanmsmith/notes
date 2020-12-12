@@ -4,3 +4,5 @@
 - 3-4 over ripe bananas
 - flour
 - sugar
+- vanilla
+- egg
