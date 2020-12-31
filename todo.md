@@ -6,3 +6,13 @@
 - [ ] Replace garbage disposal
 - [ ] Complete trello-clone fullstack react chapter
 - [x] Fill punching bag with sand and water
+### Week of Sunday, 12/27/2020
+Self:  
+ - [ ] Transcribe notes into FOAM
+ - [ ] Complete additional work in fullstack react  
+ - [ ] Daily morning stretch
+ - [ ] Walk Keyda every day
+Relationship:  
+  - [ ] Date night
+Career:  
+- [ ] Prepare for VT tech interview
