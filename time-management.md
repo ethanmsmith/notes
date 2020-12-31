@@ -16,4 +16,4 @@ A 'counter' example she gave was "We build the lives we want and time saves itse
      - **What?** This mother is running around constantly to taxi around her children, run her business, and stay healthy. Very little time to spare.
      - Enter BROKEN WATER HEATER, carpeted basement
      - This woman has to stop everything and get heating professionals in the next day to repair the water heater and then carpet cleaners in the next day to professionally clean the carpets and clean up any mildew, mold, etc. She spends 8 hours of her week handling this repair.
-   - Keep priorities like the broken water heater problem
+   - Treat priorities like the "broken hot water heater"
