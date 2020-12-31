@@ -5,4 +5,4 @@
 - [ ] Add recipes to blog
 - [ ] Replace garbage disposal
 - [ ] Complete trello-clone fullstack react chapter
-- [ ] Fill punching bag with sand and water
+- [x] Fill punching bag with sand and water
