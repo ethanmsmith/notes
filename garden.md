@@ -18,6 +18,7 @@
   - Garlic, Chamomile, Broccoli, Cauliflower, Peppers, Marigolds
     - NOT Beans and Peas
   - Peppers, Beans, Peas
+  - Zucchini, Garlic, Beans, Peas, Rosemary
 
 ## Raised Bed
  - Spinach
