@@ -1,0 +1,19 @@
+{
+  "contributes": {
+    "commands": [
+      {
+        "command": "canon",
+        "title": "Print Current File"
+      }
+    ],
+    "menus": {
+      "explorer/context": [
+        {
+          "when": "resourceLangId == markdown",
+          "command": "canon.command",
+          "group": "navigation"
+        }
+      ]
+    }
+  }
+}
