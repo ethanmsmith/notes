@@ -13,16 +13,19 @@
   - Broccoli
 
 ## Groupings
-  - Marigolds, Cauliflower, Beans
+  - Cauliflower, Beans
   - Squash, Pumpkin
   - Garlic, Chamomile, Broccoli, Cauliflower, Peppers, Marigolds
     - NOT Beans and Peas
   - Peppers, Beans, Peas
   - Zucchini, Garlic, Beans, Peas, Rosemary
+  - Squash, Peas, Beans, Lettuce
+  - Pumpkin, Beans
 
 ## Raised Bed
  - Spinach
  - Kale
+ - Broccoli
 
 ## Railing boxes
  - Herbs
