@@ -12,6 +12,7 @@
  - [ ] Complete additional work in fullstack react  
  - [ ] Daily morning stretch
  - [ ] Walk Keyda every day  
+ - [ ] Journal 2x  
   
 **Relationship:**
   - [ ] Date night  
