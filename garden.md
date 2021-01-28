@@ -1,4 +1,6 @@
 # Garden
+
+## Fenced Garden
   - Garlic
   - Beans
   - Peas
@@ -8,10 +10,17 @@
   - Zucchini
   - Marigolds
   - Cauliflower
+  - Broccoli
+
+## Groupings
+  - Marigolds, Cauliflower, Beans
+  - Squash, Pumpkin
+  - Garlic
+  - Peppers, Beans, Peas
 
 ## Raised Bed
  - Spinach
- - Kayle
+ - Kale
 
 ## Railing boxes
  - Herbs
