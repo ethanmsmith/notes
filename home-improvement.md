@@ -1,5 +1,4 @@
 # Home Improvement
-
 - [[Garden]]
 - [[Indoor-Projects]]
 
