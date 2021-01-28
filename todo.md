@@ -18,4 +18,11 @@
   - [ ] Date night  
   
 **Career:**  
-- [ ] Prepare for VT tech interview
+- [x] Prepare for VT tech interview
+  - ACED
+
+### Week of 1/24/2021
+ - [ ] Wire dimmer
+ - [ ] Push codium printer to git
+ - [ ] Add configuration to codium printer
+
