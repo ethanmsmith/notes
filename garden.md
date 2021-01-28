@@ -16,3 +16,7 @@
   - Zucchini
   - Marigolds
   - Cauliflower
+
+## Raised Bed
+ - Spinach
+ - Kayle
