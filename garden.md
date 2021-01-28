@@ -1,13 +1,5 @@
 # Garden
- 
- - Herbs
-    - Camomille
-    - Rosemary
-    - Thyme
-    - Basil
-  - Spinach
   - Garlic
-  - Kale
   - Beans
   - Peas
   - Pumpkin
@@ -20,3 +12,10 @@
 ## Raised Bed
  - Spinach
  - Kayle
+
+## Railing boxes
+ - Herbs
+   - Camomille
+   - Rosemary
+   - Thyme
+   - Basil
