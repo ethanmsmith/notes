@@ -15,7 +15,8 @@
 ## Groupings
   - Marigolds, Cauliflower, Beans
   - Squash, Pumpkin
-  - Garlic
+  - Garlic, Chamomile, Broccoli, Cauliflower, Peppers, Marigolds
+    - NOT Beans and Peas
   - Peppers, Beans, Peas
 
 ## Raised Bed
